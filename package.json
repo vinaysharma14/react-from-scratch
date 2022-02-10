@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/vinaysharma14/react-from-scratch#readme",
   "dependencies": {
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2"
